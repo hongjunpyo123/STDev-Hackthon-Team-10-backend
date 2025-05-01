@@ -108,15 +108,6 @@ java -jar ../team10-0.0.1-SNAPSHOT.jar
 ---
 ## 팀원 소개
 
-### Backend Developer
-<img src="https://github.com/hongjunpyo123.png" width="100" height="100" style="border-radius: 50%;" />
-
-- GitHub: [@hongjunpyo123](https://github.com/hongjunpyo123)
-
-<img src="https://github.com/moonjun1.png" width="100" height="100" style="border-radius: 50%;" />
-
-- GitHub: [@moonjun1](https://github.com/moonjun1)
----
 ### Frontend Developer
 <img src="https://github.com/ij5.png" width="100" height="100" style="border-radius: 50%;" />
 
@@ -125,6 +116,15 @@ java -jar ../team10-0.0.1-SNAPSHOT.jar
 <img src="https://github.com/lnylnylnylny.png" width="100" height="100" style="border-radius: 50%;" />
 
 - GitHub: [@nylnylnylny](https://github.com/nylnylnylny)
+---
+### Backend Developer
+<img src="https://github.com/hongjunpyo123.png" width="100" height="100" style="border-radius: 50%;" />
+
+- GitHub: [@hongjunpyo123](https://github.com/hongjunpyo123)
+
+<img src="https://github.com/moonjun1.png" width="100" height="100" style="border-radius: 50%;" />
+
+- GitHub: [@moonjun1](https://github.com/moonjun1)
 
 
 ---
