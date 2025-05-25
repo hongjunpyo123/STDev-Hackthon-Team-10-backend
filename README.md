@@ -84,8 +84,8 @@ spring.datasource.password=your-password
 
 3. 프로젝트 빌드 및 실행
 ```bash
-./gradlew build -x test
-java -jar ../team10-0.0.1.jar
+./gradlew clean build
+java -jar ../team10-0.0.1-SNAPSHOT.jar
 ```
 
 ---
